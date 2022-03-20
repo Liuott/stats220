@@ -1,6 +1,6 @@
 # stats220
 
-This is my Assignment repo. 
+## This is my Assignment repo. 
 
 *I'm a student of The university of Auckland*
 
