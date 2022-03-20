@@ -22,4 +22,4 @@ meme<-c(backdrop,Teletubbies,calm)%>%
   image_scale(1000)
 meme
 image_write(meme, "my_meme.png")
-print(meme)
+
