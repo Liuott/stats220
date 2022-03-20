@@ -4,7 +4,9 @@ Welcome to my Assiggment website!
 
 ## About me
 
-I'm a student who study at the University of Auckland. **I love game and novel.** 
+I'm a student who study at the [University of Auckland](https://unidirectory.auckland.ac.nz/profile/a-fergusson).
+
+**I love game and novel.** 
 
 ## I also love buddha!
 
@@ -18,7 +20,7 @@ A really short and unhelpful summary of my inspiration for the buddha is:
 
 I also probably should provide the `R` code I used to make the meme!
 
-'''
+```
 
 library(magick)
 
@@ -44,4 +46,4 @@ meme<-c(backdrop,Teletubbies,calm)%>%
   image_scale(1000)
 meme
 image_write(meme, "my_meme.png")
-'''
+```
