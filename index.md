@@ -2,13 +2,7 @@
 
 Welcome to my Assiggment website! 
 
-## About me
 
-I'm a student who study at the [University of Auckland](https://unidirectory.auckland.ac.nz/profile/a-fergusson).
-
-**I love game and novel.** 
-
-## I also love buddha!
 
 Below is a buddha I made using the R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
 
